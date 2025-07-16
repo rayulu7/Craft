@@ -1,4 +1,4 @@
-import ContactUs from "./Contactus";
+import ContactUs from "./ContactUs";
 
 export default function Contact() {
     return (
